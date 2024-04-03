@@ -1,5 +1,5 @@
 [{"menu": "Comune",
-  "icona": "https://img.icons8.com/pastel-glyph/250/location--v4.png",
+  "icona": "https://img.icons8.com/pastel-glyph/250/location--v1.png",
   "destinazione": "/detailspage",
   "api": "https://raw.githubusercontent.com/hgsolutionsmilano/api/main/Pregna_informa/settings_config.json"},
 {  "menu": "News",
