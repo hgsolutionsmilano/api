@@ -4,14 +4,22 @@
         "icona": "https://img.icons8.com/pastel-glyph/250/location--v1.png",
         "destinazione": "/detailspage",
         "api": "https://raw.githubusercontent.com/hgsolutionsmilano/api/main/Pregna_informa/settings_config.json",
-        "htmlpage": "<table><tbody><tr><td><strong>Name</strong></td><td><strong>City</strong></td><td><strong>Age</strong></td></tr><tr><td>John</td><td>Chicago</td><td>23</td></tr><tr><td>Lucy</td><td>Wisconsin</td><td>19</td></tr><tr><td>Amanda</td><td>Madison</td><td>22</td></tr></tbody></table><p>This is a table you can experiment with.</p>",
-        "htmllink": ""
+        "htmlpage": "",
+        "htmllink": "https://it.wikipedia.org/wiki/Pregnana_Milanese"
     },
     {
         "menu": "News",
         "icona": "https://cdn.icon-icons.com/icons2/3205/PNG/512/pin_place_pointer_marker_direction_gps_navigation_map_location_icon_195711.png",
         "destinazione": "/detailspage",
         "api": "https://raw.githubusercontent.com/hgsolutionsmilano/api/main/Pregna_informa/settings_config.json",
+        "htmlpage": "",
+        "htmllink": ""
+    },
+    {
+        "menu": "Credits",
+        "icona": "https://cdn.icon-icons.com/icons2/3205/PNG/512/pin_place_pointer_marker_direction_gps_navigation_map_location_icon_195711.png",
+        "destinazione": "/detailspage",
+        "api": "",
         "htmlpage": "",
         "htmllink": ""
     }
