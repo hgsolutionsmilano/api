@@ -1,4 +1,12 @@
 [
+     {
+        "menu": "Home",
+        "icona": "https://img.icons8.com/pastel-glyph/250/location--v1.png",
+        "destinazione": "/",
+        "api": "",
+        "htmlpage": "",
+        "htmllink": ""
+    },
     {
         "menu": "Comune",
         "icona": "https://img.icons8.com/pastel-glyph/250/location--v1.png",
