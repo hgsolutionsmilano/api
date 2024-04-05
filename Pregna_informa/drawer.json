@@ -8,7 +8,7 @@
         "htmllink": ""
     },
     {
-        "menu": "Comune12",
+        "menu": "Comune",
         "icona": "https://img.icons8.com/pastel-glyph/250/location--v1.png",
         "destinazione": "/webapp",
         "api": "https://raw.githubusercontent.com/hgsolutionsmilano/api/main/Pregna_informa/settings_config.json",
