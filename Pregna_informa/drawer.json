@@ -1,7 +1,7 @@
 [
      {
         "menu": "Home",
-        "icona": "https://img.icons8.com/pastel-glyph/250/location--v1.png",
+        "icona": "https://img.icons8.com/ios/250/home--v1.png",
         "destinazione": "/home",
         "api": "",
         "htmlpage": "",
