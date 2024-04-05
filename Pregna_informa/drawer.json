@@ -26,9 +26,9 @@
     {
         "menu": "Credits",
         "icona": "https://cdn.icon-icons.com/icons2/3205/PNG/512/pin_place_pointer_marker_direction_gps_navigation_map_location_icon_195711.png",
-        "destinazione": "/detailspage",
+        "destinazione": "/webapp",
         "api": "",
-        "htmlpage": "<iframe src=\"https://www.youtube.com/embed/hLQl3WQQoQ0?si=nxfrRujNtf0KfbPl\" ></iframe>",
+        "htmlpage": "",
         "htmllink": ""
     }
 ]
